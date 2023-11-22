@@ -3,7 +3,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: aquamarine;
+    background-image: linear-gradient(#e66465, #9198e5);
+    background-repeat: no-repeat;
     height: 100vh;
     color: white;
 }
@@ -21,6 +22,10 @@ section {
     width: 400px;
     background-color: rgb(82, 82, 82);
     border-radius: 10px;
+}
+
+h2 {
+    padding-top: 10px;
 }
 
 .colarUrl {

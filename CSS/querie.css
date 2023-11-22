@@ -1,0 +1,18 @@
+@media screen and (max-width: 410px) {
+
+    .container {
+        width: 300px;
+    }
+
+    p {
+        padding: 10px;
+    }
+
+    .colarUrl {
+        width: 260px;
+    }
+    
+    .gerador {
+        width: 260px;
+    }
+}
